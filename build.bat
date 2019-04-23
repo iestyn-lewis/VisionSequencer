@@ -1,0 +1,1 @@
+c:\python27\scripts\pyinstaller.exe -F -w WebCamJam.py

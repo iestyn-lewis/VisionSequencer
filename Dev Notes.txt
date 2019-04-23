@@ -1,0 +1,19 @@
+Dev Notes
+
+Incoming Cells -> Internal Data Structure -> Display Cells
+
+Internal Data Structure
+Measures
+	Measure
+		saved
+			cols
+				pitches
+				accent
+				sustain
+				octave
+		new
+		merged
+		
+Save Operation Merges New into Saved
+
+Display Cells returns 

@@ -1,0 +1,9 @@
+('C:\\Users\\ilewis\\Documents\\Python Scripts\\VisionSequencer\\dist\\WebCamJam.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1443305000L)
